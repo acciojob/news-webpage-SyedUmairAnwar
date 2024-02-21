@@ -5,11 +5,19 @@
 	background-color : #f5f5f5;
 	align-items: center;
 	overflow:hidden;
+	padding:15px;
+	width:95%;
+	text-align:center;
+	border-radius:2px;
 }
 .header{
 	color:white;
 	background-color:black;
 	align-items:center;
+	text-align:center;
+	
+}
+.pictorial-news-section{
 	text-align:center;
 	
 }
